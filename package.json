@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NetScape-Web/Reunion-Assignment.git"
+    "url": "git+https://github.com/20481A5450/ReunionInternshipTask.git"
   },
   "keywords": [
     "Backend",
@@ -20,12 +20,12 @@
     "server",
     "mongodb"
   ],
-  "author": "Sonu Kumar <sonu.patna0808@gmail.com>",
+  "author": "Shaik Zohaib<shaikzohaibgec@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NetScape-Web/Reunion-Assignment/issues"
+    "url": "https://github.com/20481A5450/ReunionInternshipTask/issues"
   },
-  "homepage": "https://github.com/NetScape-Web/Reunion-Assignment#readme",
+  "homepage": "https://github.com/20481A5450/ReunionInternshipTask#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "chai": "^4.3.7",
